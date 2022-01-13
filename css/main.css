@@ -1,0 +1,11 @@
+.form{
+    text-align: center;
+    margin: 0 auto;
+}
+
+.input{
+    border-radius: 3px;
+}
+.btn{
+    border-radius: 4px;
+}
